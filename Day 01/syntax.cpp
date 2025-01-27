@@ -8,8 +8,8 @@ int main()
     cout << "Hello, World! \n";
 
     // Declare variable
-    int a;
-    a = 30;
+    int a;  // declaration
+    a = 30; // initialization
     cout << "size of int : " << sizeof(a);
 
     return 0;
