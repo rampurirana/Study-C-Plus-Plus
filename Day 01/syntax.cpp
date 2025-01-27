@@ -5,8 +5,12 @@ int main()
 {
 
     // Basic syntax of C++
+    cout << "Hello, World! \n";
 
-    cout << "Hello, World!";
+    // Declare variable
+    int a;
+    a = 30;
+    cout << "size of int : " << sizeof(a);
 
     return 0;
 }
