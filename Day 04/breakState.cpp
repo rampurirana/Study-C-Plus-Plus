@@ -12,7 +12,7 @@ int main()
     {
         if (i == 5)
         {
-            break;
+            break; // Exit the loop when i is 5
         }
         cout << i << endl;
     }
