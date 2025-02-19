@@ -10,7 +10,7 @@ int main()
     {
         if (i == 4)
         {
-            continue; // Skip when i is 3
+            continue; // Skip when i is 4
         }
         cout << i << endl;
     }
