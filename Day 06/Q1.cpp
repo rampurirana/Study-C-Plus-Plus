@@ -1,4 +1,4 @@
-// Print rectangle pattern
+// Create rectangle pattern
 
 #include <iostream>
 using namespace std;
